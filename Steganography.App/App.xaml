@@ -1,0 +1,15 @@
+﻿<!-- 
+// SPDX-License-Identifier: GPL-3.0-or-later
+//
+// Copyright 2022 Matthias Lübben <ml81@gmx.de>
+//
+-->
+<Application x:Class="Steganography.App.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Steganography.App"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
